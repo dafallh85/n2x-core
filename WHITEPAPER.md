@@ -85,4 +85,4 @@ Conclusion
 
 N2X Core is more than a cryptocurrency—it is a decentralized infrastructure ecosystem combining blockchain technology, artificial intelligence, and Web3 innovation to support the digital economy of the future.
 
-By focusing on scalability, security, community, and intelligent technologies, N2X Core aims to become a trusted foundation for next-generation decentralized service
+By focusing on scalability, security, community, and intelligent technologies, N2X Core aims to become a trusted foundation for next-generation decentralized services
