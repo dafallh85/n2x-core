@@ -1,123 +1,116 @@
-🛣️ N2X Core Roadmap
-✅ Phase 1 — Project Launch
+# N2X Core Roadmap
 
-August 2026
+## Phase 1 — Project Foundation
+### August 2026
 
-Launch N2X Token on BNB Smart Chain
-Publish Official Website
-Release Whitepaper
-Launch GitHub Repository
-Open Official Telegram Community
-Launch Official X (Twitter)
-Deploy PancakeSwap Trading
-Integrate Binance Web3 Wallet
-Build Initial Community
-Begin Global Marketing
-🚀 Phase 2 — Ecosystem Growth
+- Launch N2X Token on BNB Smart Chain
+- Deploy N2X Smart Contract
+- Publish Official Website
+- Release Whitepaper v1.0
+- Launch Official GitHub Repository
+- Open Official Telegram Community
+- Launch Official X (Twitter)
+- Enable PancakeSwap Trading
+- Web3 Wallet Compatibility
+- Build Initial Global Community
 
-September – October 2026
+## Phase 2 — Ecosystem Growth
+### September – October 2026
 
-Expand Community Worldwide
-Strategic Marketing Campaigns
-Community Ambassador Program
-Partnership Development
-Improve Website & Documentation
-Submit to CoinMarketCap
-Submit to CoinGecko
-Apply for DEX Screener
-Apply for DEXTools
-Strengthen Ecosystem Visibility
-🌐 Phase 3 — Web3 Platform
+- Expand Global Marketing Campaigns
+- Grow Community Worldwide
+- Strategic Partnerships
+- Community Ambassador Program
+- Website Improvements
+- Documentation Center
+- Apply for CoinMarketCap Listing
+- Apply for CoinGecko Listing
+- Apply for DEX Screener
+- Apply for DEXTools
 
-November – December 2026
+## Phase 3 — Developer Ecosystem
+### November – December 2026
 
-Launch the first version of the N2X Web3 Platform.
+- Launch Developer Portal
+- Release Public APIs
+- Smart Contract SDK
+- GitHub Open-Source Expansion
+- Developer Documentation
+- Community Contribution Program
+- Security Improvements
+- Infrastructure Optimization
 
-Features include:
+## Phase 4 — AI Integration
+### January – March 2027
 
-Web3 Dashboard
-Smart Contract Tools
-Wallet Integration
-Developer Portal
-Web3 Authentication
-Digital Identity
-DApp Support
-API Services
-🤖 Phase 4 — AI Integration
+- AI Assistant
+- AI Analytics
+- AI Automation
+- AI API Services
+- AI Smart Agents
+- AI Security Monitoring
+- AI Content Generation
+- AI Developer Tools
 
-January – March 2027
+## Phase 5 — Web3 Platform
+### April – June 2027
 
-Introduce AI-powered services across the ecosystem.
+- N2X Web3 Dashboard
+- Wallet Integration
+- Digital Identity
+- DApp Infrastructure
+- Smart Contract Tools
+- Web3 Authentication
+- Decentralized Services
+- Enterprise APIs
 
-Features:
+## Phase 6 — Token Utility Expansion
+### July – September 2027
 
-AI Assistant
-AI Automation
-AI Analytics
-AI Content Generation
-AI Developer APIs
-AI Smart Agents
-Intelligent Search
-AI Security Monitoring
-⚡ Phase 5 — Token Utility Expansion
+- N2X Staking
+- Governance System
+- Community Rewards
+- Premium AI Services
+- Merchant Payments
+- Referral Program
+- Ecosystem Incentives
+- Partner Integrations
 
-April – June 2027
+## Phase 7 — Smart Network Infrastructure
+### October – December 2027
 
-Increase the real-world utility of N2X.
+- Smart Network Services
+- Cross-Chain Connectivity
+- Enterprise Infrastructure
+- Distributed Data Services
+- High-Speed Blockchain Integration
+- AI Network Optimization
+- Infrastructure Expansion
+- Business Solutions
 
-Launch:
+## Phase 8 — Global Expansion
+### 2028
 
-Staking
-Governance
-Reward System
-Merchant Payments
-Premium AI Services
-Referral Program
-Community Rewards
-Ecosystem Incentives
-🌍 Phase 6 — Smart Network Infrastructure
+- Major Exchange Applications and Potential Listings
+- Enterprise Partnerships
+- University Collaborations
+- Global Hackathons
+- Developer Grants
+- Regional Communities
+- International Conferences
+- Worldwide Adoption
 
-July – December 2027
+## Beyond 2028 — Powering the Next Era
 
-Develop intelligent decentralized infrastructure.
+N2X Core will continue building toward a decentralized ecosystem combining:
 
-Includes:
+- Artificial Intelligence
+- Web3 Infrastructure
+- Smart Networks
+- Blockchain Innovation
+- Digital Identity
+- Developer Ecosystem
+- Enterprise Solutions
+- Global Digital Economy
 
-Smart Network Services
-Cross-Chain Connectivity
-IoT Integration
-Enterprise APIs
-Secure Data Routing
-AI Network Optimization
-High-Speed Infrastructure
-Business Solutions
-🌎 Phase 7 — Global Expansion
-
-2028
-
-Objectives
-
-Major Exchange Listings
-Enterprise Partnerships
-Global Developer Program
-University Partnerships
-Regional Communities
-International Conferences
-Grant Program
-Worldwide Adoption
-♾️ Phase 8 — Future Vision
-
-2029+
-
-N2X Core aims to become one of the leading decentralized infrastructure ecosystems by combining:
-
-Artificial Intelligence
-Blockchain
-Web3
-Smart Networks
-Digital Identity
-Decentralized Applications
-Global Digital Economy
-🎯 Long-Term Vision
-
-Powering the Next Era of Web3, Artificial Intelligence, and Smart Digital Infrastructure
+All planned features and integrations are subject to development, implementation, and verification. Planned features should not be interpreted as currently active products.
